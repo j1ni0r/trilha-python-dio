@@ -1,6 +1,6 @@
 from abc import ABC, abstractclassmethod, abstractproperty
 from datetime import datetime
-
+#teste editando pelo github
 
 class Cliente:
     def __init__(self, endereco):
